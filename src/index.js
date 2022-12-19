@@ -47,7 +47,7 @@ const up = () => {
 
 };
 const command = input.toString();
-console.log(command);
+// console.log(command);
 switch (command) {
   case 'up': 
     up();
